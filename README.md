@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🕘 Recent Activity
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#2393](https://github.com/openconfig/featureprofiles/pull/2393) in [openconfig/featureprofiles](https://github.com/openconfig/featureprofiles)
